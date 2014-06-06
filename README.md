@@ -1,7 +1,8 @@
 postgres-bluebird
 =================
 
-PostgreSQL driver, promisified by Bluebird - and using Bluebird's syntax
+
+Node.js PostgreSQL driver, promisified by Bluebird - and using Bluebird's *Async suffix syntax
 
 This package exposes a promisified version of pg's API, so you can use it in BlueBird's manner:
 
@@ -19,4 +20,4 @@ pg.connectAsync(...).spread(function(connection, release) {
 });
 ```
 
-This package was inspired by (http://stackoverflow.com/a/23882624/205290)[this answer]
+This package was inspired by [this answer](http://stackoverflow.com/a/23882624/205290)
