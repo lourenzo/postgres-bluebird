@@ -1,6 +1,6 @@
 {
   "name": "postgres-bluebird",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "PostgreSQL promisified by Bluebird",
   "main": "./lib/main",
   "repository": {
