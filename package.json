@@ -1,0 +1,30 @@
+{
+  "name": "postgres-bluebird",
+  "version": "0.0.1",
+  "description": "PostgreSQL promisified by Bluebird",
+  "main": "./lib/main",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lourenzo/postgres-bluebird"
+  },
+  "keywords": [
+    "postgresql",
+    "postgres",
+    "pgsql",
+    "pg",
+    "bluebird",
+    "promises",
+    "promisify",
+    "promisified"
+  ],
+  "author": "Lourenzo Ferreira <lourenzo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lourenzo/postgres-bluebird/issues"
+  },
+  "homepage": "https://github.com/lourenzo/postgres-bluebird",
+  "dependencies": {
+    "bluebird": "^2.0.5",
+    "pg": "^3.3.0"
+  }
+}
