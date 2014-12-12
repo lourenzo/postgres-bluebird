@@ -2,7 +2,7 @@
   "name": "postgres-bluebird",
   "version": "0.0.3",
   "description": "PostgreSQL promisified by Bluebird",
-  "main": "./lib/main",
+  "main": "./lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/lourenzo/postgres-bluebird"
